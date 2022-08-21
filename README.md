@@ -1,6 +1,7 @@
-Hello there 👋
-
-Welcome to my profile!
+Hello there 👋 Welcome to my profile!
+-------------------------------------------------------------------------------------------------
+My portfolio:
+https://sawarz.github.io/portfolio/
 
 🕹️ My tech stack:
 -------------------------------------------------------------------------------------------------
@@ -15,6 +16,7 @@ Other:<br/>
 
 
 🕵️ I'm currently working on:
+-------------------------------------------------------------------------------------------------
 
 🥐 Breddit - A reddit mockup site for bread lovers!<br/>
 https://github.com/Sawarz/breddit

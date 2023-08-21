@@ -29,4 +29,4 @@ https://github.com/Sawarz/bee-planner
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sawarz&hide=prs,issues,contribs&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sawarz&hide=issues,contribs&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
